@@ -1,0 +1,5 @@
+diff a/FolderTest/hellop.txt b/FolderTest/hellop.txt	(rejected hunks)
+@@ -1 +0,2 @@
+-Hello
++Hello world
++
